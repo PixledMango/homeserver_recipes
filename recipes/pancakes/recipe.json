@@ -1,0 +1,64 @@
+{
+    "title": "Pancakes",
+    "slug": "pancakes",
+    "description": "Classic pancakes, good for any occasion.",
+    "prepTime": 5,
+    "cookTime": 15,
+    "servings": 8,
+    "tags": ["Breakfast"],
+    "ingredients": [
+        {
+            "name": "Flour",
+            "amount": 1.5,
+            "unit": "Cup",
+            "other": ""
+        },
+        {
+            "name": "Baking Powder",
+            "amount": 3.5,
+            "unit": "Teaspoon",
+            "other": ""
+        },
+        {
+            "name": "Sugar",
+            "amount": 1,
+            "unit": "Tablespoon",
+            "other": ""
+        },
+        {
+            "name": "Salt",
+            "amount": 0.25,
+            "unit": "Teaspoon",
+            "other": "or more to taste"
+        },
+        {
+            "name": "Milk",
+            "amount": 1.25,
+            "unit": "Cup",
+            "other": ""
+        },
+        {
+            "name": "Butter",
+            "amount": 3,
+            "unit": "Tablespoon",
+            "other": "melted"
+        },
+        {
+            "name": "Egg",
+            "amount": 1,
+            "unit": "Large",
+            "other": ""
+        }
+    ],
+    "instructions": [
+        "Gather all ingredients.",
+        "Combine flour, baking powder, sugar, and salt together in a large bown. Make a well in the center and add milk, melted butter, and egg; mix until smooth.",
+        "Heat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes.",
+        "Flip and cook until browned on the other side. Repeat with remaining batter.",
+        "Serve and enjoy!"
+    ],
+    "calories": 158,
+    "carbohydrates": 22,
+    "fats": 6,
+    "protien": 5
+}
